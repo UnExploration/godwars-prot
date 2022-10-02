@@ -31,14 +31,6 @@ public class GodWarsProtPlugin extends Plugin
 	public static boolean hasAnc = false;
 	public static boolean hasSara = false;
 
-	public static int bandosItem = -1;
-	public static int armaItem = -1;
-	public static int zamItem = -1;
-	public static int ancItem = -1;
-	public static int saraItem = -1;
-
-
-
 	@Inject
 	private Client client;
 	@Inject
@@ -69,7 +61,6 @@ public class GodWarsProtPlugin extends Plugin
 	@Override
 	protected void shutDown() throws Exception
 	{
-
 		overlayManager.remove(overlay);
 		overlayManager.remove(itemOverlay);
 	}
@@ -91,53 +82,42 @@ public class GodWarsProtPlugin extends Plugin
 		boolean arma2 = false;
 		boolean zam2 = false;
 		boolean anc2 =  false;
-		bandosItem = -1;
-		armaItem = -1;
-		zamItem = -1;
-		ancItem = -1;
-		saraItem = -1;
 
 		for (Item item : items){
+
 			if (!arma2){
 				if (armadyl.checkList(item.getId())){
-					armaItem = item.getId();
 					arma2 = true;
 				}
 			}
 			if (!bandos2){
 				if (bandos.checkList(item.getId())){
-					bandosItem = item.getId();
 					bandos2 = true;
 				}
 			}
 			if (!zam2){
 				if (zamorak.checkList(item.getId())){
-					zamItem = item.getId();
 					zam2 = true;
 				}
 
 			}
 			if (!sara2){
 				if (saradomin.checkList(item.getId())){
-					saraItem = item.getId();
 					sara2 = true;
 				}
 			}
 			if (!anc2){
 				if (ancient.checkList(item.getId())){
-					ancItem = item.getId();
 					anc2 = true;
 				}
 			}
 
-			hasArma = arma2;
-			hasZam = zam2;
-			hasBandos = bandos2;
-			hasAnc = anc2;
-			hasSara = sara2;
-
-
 		}
+		hasArma = arma2;
+		hasZam = zam2;
+		hasBandos = bandos2;
+		hasAnc = anc2;
+		hasSara = sara2;
 
 
 	}
