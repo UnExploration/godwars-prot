@@ -33,6 +33,7 @@ public class Armadyl {
         this.ArmadylItemHash.add(ItemID.ARMADYL_PENDANT);
         this.ArmadylItemHash.add(ItemID.ARMADYL_STOLE);
         this.ArmadylItemHash.add(ItemID.HONOURABLE_BLESSING);
+        this.ArmadylItemHash.add(ItemID.ARMADYL_CHAPS);
     }
 
     public boolean checkList(int Item)
