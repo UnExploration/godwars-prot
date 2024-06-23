@@ -26,6 +26,7 @@ public class Zamorak {
         this.ZamorakItemHash.add(ItemID.VIGGORAS_CHAINMACE);
         this.ZamorakItemHash.add(ItemID.INQUISITORS_MACE);
         this.ZamorakItemHash.add(ItemID.UNHOLY_BOOK);
+        this.ZamorakItemHash.add(ItemID.DAMAGED_BOOK_3841);
         this.ZamorakItemHash.add(ItemID.ZAMORAK_KITESHIELD);
         this.ZamorakItemHash.add(ItemID.ZAMORAK_DHIDE_SHIELD);
         this.ZamorakItemHash.add(ItemID.ZAMORAK_COIF);

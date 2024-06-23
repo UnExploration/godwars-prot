@@ -14,6 +14,7 @@ public class Bandos {
         this.BandosItemHash.add(ItemID.BANDOS_GODSWORD);
         this.BandosItemHash.add(ItemID.BANDOS_CROZIER);
         this.BandosItemHash.add(ItemID.BOOK_OF_WAR);
+        this.BandosItemHash.add(ItemID.DAMAGED_BOOK_12607);
         this.BandosItemHash.add(ItemID.BANDOS_KITESHIELD);
         this.BandosItemHash.add(ItemID.BANDOS_DHIDE_SHIELD);
         this.BandosItemHash.add(ItemID.BANDOS_FULL_HELM);
