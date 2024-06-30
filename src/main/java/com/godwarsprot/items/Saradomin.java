@@ -23,6 +23,7 @@ public class Saradomin {
         this.SaradominItemHash.add(ItemID.HOLY_GHRAZI_RAPIER);
         this.SaradominItemHash.add(ItemID.HOLY_SANGUINESTI_STAFF);
         this.SaradominItemHash.add(ItemID.HOLY_BOOK);
+        this.SaradominItemHash.add(ItemID.DAMAGED_BOOK);
         this.SaradominItemHash.add(ItemID.SARADOMIN_KITESHIELD);
         this.SaradominItemHash.add(ItemID.SARADOMIN_DHIDE_SHIELD);
         this.SaradominItemHash.add(ItemID.HALLOWED_FOCUS);

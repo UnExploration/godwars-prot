@@ -14,6 +14,7 @@ public class Ancient {
         this.AncientItemHash.add(ItemID.ANCIENT_CROZIER);
         this.AncientItemHash.add(ItemID.ZARYTE_CROSSBOW);
         this.AncientItemHash.add(ItemID.BOOK_OF_DARKNESS);
+        this.AncientItemHash.add(ItemID.DAMAGED_BOOK_12611);
         this.AncientItemHash.add(ItemID.ANCIENT_KITESHIELD);
         this.AncientItemHash.add(ItemID.ANCIENT_DHIDE_SHIELD);
         this.AncientItemHash.add(ItemID.ANCIENT_COIF);

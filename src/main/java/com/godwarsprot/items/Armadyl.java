@@ -14,6 +14,7 @@ public class Armadyl {
         this.ArmadylItemHash.add(ItemID.ARMADYL_CROZIER);
         this.ArmadylItemHash.add(ItemID.CRAWS_BOW);
         this.ArmadylItemHash.add(ItemID.BOOK_OF_LAW);
+        this.ArmadylItemHash.add(ItemID.DAMAGED_BOOK_12609);
         this.ArmadylItemHash.add(ItemID.ARMADYL_KITESHIELD);
         this.ArmadylItemHash.add(ItemID.ARMADYL_DHIDE_SHIELD);
         this.ArmadylItemHash.add(ItemID.ARMADYL_HELMET);
