@@ -5,7 +5,7 @@ import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 import net.runelite.client.ui.overlay.OverlayPosition;
 
-@ConfigGroup("example")
+@ConfigGroup("godwarsprotectionoverlay")
 public interface GodWarsProtConfig extends Config
 {
 	@ConfigItem(
