@@ -34,6 +34,7 @@ public class Bandos {
         this.BandosItemHash.add(ItemID.BANDOS_DHIDE_BOOTS);
         this.BandosItemHash.add(ItemID.BANDOS_BOOTS);
         this.BandosItemHash.add(ItemID.GUARDIAN_BOOTS);
+        this.BandosItemHash.add(ItemID.ECHO_BOOTS);
         this.BandosItemHash.add(ItemID.WAR_BLESSING);
         this.BandosItemHash.add(ItemID.BANDOS_STOLE);
         this.BandosItemHash.add(ItemID.BANDOS_CHAPS);

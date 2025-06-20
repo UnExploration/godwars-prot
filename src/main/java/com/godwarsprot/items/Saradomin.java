@@ -48,6 +48,7 @@ public class Saradomin {
         this.SaradominItemHash.add(ItemID.SARADOMIN_CHAPS);
         this.SaradominItemHash.add(ItemID.MONKS_ROBE);
         this.SaradominItemHash.add(ItemID.SARADOMIN_PLATELEGS);
+        this.SaradominItemHash.add(ItemID.SARADOMIN_PLATESKIRT);
         this.SaradominItemHash.add(ItemID.JUSTICIAR_LEGGUARDS);
         this.SaradominItemHash.add(ItemID.HOLY_WRAPS);
         this.SaradominItemHash.add(ItemID.SARADOMIN_BRACERS);
