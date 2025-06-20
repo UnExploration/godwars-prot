@@ -60,7 +60,7 @@ public class Zamorak {
         this.ZamorakItemHash.add(ItemID.OATHPLATE_CHEST);
         this.ZamorakItemHash.add(ItemID.DAGONHAI_ROBE_TOP);
         this.ZamorakItemHash.add(ItemID.ELITE_BLACK_PLATEBODY);
-        this.ZamorakItemHash.add(ItemID.DARK_SQUALL_ROBE_TOP)
+        this.ZamorakItemHash.add(ItemID.DARK_SQUALL_ROBE_TOP);
         this.ZamorakItemHash.add(ItemID.ZAMORAK_ROBE_LEGS);
         this.ZamorakItemHash.add(ItemID.ZAMORAK_MONK_BOTTOM);
         this.ZamorakItemHash.add(ItemID.ELDER_CHAOS_ROBE);
